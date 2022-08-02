@@ -1,6 +1,8 @@
 State Manager Example Applications
 ===============================
 
+https://youtu.be/P95DuIBwnqw
+
 # Installation and startup
 
 ```sh
